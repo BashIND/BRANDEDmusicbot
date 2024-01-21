@@ -21,8 +21,7 @@ sudo()
 # Clients
 app = ZexxOpBot()
 
-userbot = Userbot(Client)
-
+userbot = Client()
 
 from .platforms import *
 
