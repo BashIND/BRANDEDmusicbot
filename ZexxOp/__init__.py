@@ -7,15 +7,10 @@ from aiohttp import ClientSession
 
 from .logging import LOGGER
 
-
 dirr()
-
 git()
-
 dbb()
-
 heroku()
-
 sudo()
 
 # Clients
