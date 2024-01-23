@@ -56,6 +56,6 @@ async def init():
     await idle()
 
 
-if __name__ == "__main__":
-    loop.run_until_complete(init())
-    LOGGER("ZexxOp").info("😢 𝐒𝐨𝐫𝐫𝐲 𝐒𝐭𝐨𝐩𝐩𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 ☹️")
+#if __name__ == "__main__":
+ #   loop.run_until_complete(init())
+#    LOGGER("ZexxOp").info("😢 𝐒𝐨𝐫𝐫𝐲 𝐒𝐭𝐨𝐩𝐩𝐢𝐧𝐠 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 ☹️")
